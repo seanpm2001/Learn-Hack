@@ -31,8 +31,6 @@ Single line comments in Hack are written like so:
 // This is a single line comment
 ```
 
-The `BTW` keyword is similar to the `REM` keyword in Batchfile. They both are for comments.
-
 ##### Multi-line comments
 
 Multi-line comments in Hack are written like so:
@@ -48,8 +46,6 @@ multi-line
 comment
 */
 ```
-
-Multi-line comments start with `OBTW` and end with `TLDR`
 
 #### Break keyword in Hack
 
@@ -128,9 +124,9 @@ return function3();
 
 **File type:** `Markdown document (*.md *.mkd *.mdown *.markdown)`
 
-**File version:** `1 (2022, Monday, August 1st at 4:26 pm PST)`
+**File version:** `2 (2022, Monday, August 1st at 4:35 pm PST)`
 
-**Line count (including blank lines and compiler line):** `180`
+**Line count (including blank lines and compiler line):** `190`
 
 ***
 
@@ -171,6 +167,20 @@ return function3();
 > * Added the `file history` section
 
 > * No other changes in version 1
+
+</details>
+
+<details><summary><p><b>Version 2 (2022, Monday, August 1st at 4:35 pm PST)</b></p></summary>
+
+> Changes:
+
+> * Removed remaining references to LOLCode, which this document was based on
+
+> * Updated the `file info` section
+
+> * Updated the `file history` section
+
+> * No other changes in version 2
 
 </details>
 
